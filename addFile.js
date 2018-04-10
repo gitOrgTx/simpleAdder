@@ -21,9 +21,10 @@ function displays(){
 //  ADDED THIS FUNCTION FROM THE master user and will push to Org repo
 function runner(){
 
-    console.log(" this is new funct: ");
+    console.log(" this is new RUNNER funct: ");
 }
 
 console.log("The rsult isxx: ");
 // console.log(adder());
 console.log(displays());
+runner()
