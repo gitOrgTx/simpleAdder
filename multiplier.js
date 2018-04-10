@@ -19,7 +19,7 @@ function secondMulti(){
 }
 
 function 3erMulti(){
-    
+	console.log(" This is 3er Multi function: ");    
 }
 
 console.log("The multiplier isx: ");
