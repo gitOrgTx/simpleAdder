@@ -7,6 +7,7 @@ var num2 = 3;
 function multiplier(){
 
     result = num1 * num2;
+    console.log(" this is multiplier function: ")
     return result;
 
 
