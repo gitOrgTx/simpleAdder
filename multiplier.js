@@ -25,3 +25,4 @@ function ThirdMulti(){
 console.log("The multiplier isx: ");
 console.log(multiplier());
 secondMulti();
+ThirdMulti()
