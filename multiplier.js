@@ -18,7 +18,7 @@ function secondMulti(){
     console.log(" THIS IS secondMulti: ")
 }
 
-function 3erMulti(){
+function ThirdMulti(){
 	console.log(" This is 3er Multi function: ");    
 }
 
