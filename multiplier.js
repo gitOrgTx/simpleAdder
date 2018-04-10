@@ -18,6 +18,10 @@ function secondMulti(){
     console.log(" THIS IS secondMulti: ")
 }
 
+function 3erMulti(){
+    
+}
+
 console.log("The multiplier isx: ");
 console.log(multiplier());
 secondMulti();
