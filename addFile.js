@@ -12,5 +12,11 @@ function adder(){
 
 }
 
-console.log("The rsult isx: ");
-console.log(adder());
+function displays(){
+
+    return adder();
+}
+
+console.log("The rsult isxx: ");
+// console.log(adder());
+console.log(displays());
