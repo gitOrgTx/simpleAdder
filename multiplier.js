@@ -13,5 +13,11 @@ function multiplier(){
 
 }
 
+function secondMulti(){
+
+    console.log(" THIS IS secondMulti: ")
+}
+
 console.log("The multiplier isx: ");
 console.log(multiplier());
+secondMulti();
