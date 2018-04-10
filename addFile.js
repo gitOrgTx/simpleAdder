@@ -17,6 +17,13 @@ function displays(){
     return adder();
 }
 
+
+//  ADDED THIS FUNCTION FROM THE master user and will push to Org repo
+function runner(){
+
+    console.log(" this is new funct: ");
+}
+
 console.log("The rsult isxx: ");
 // console.log(adder());
 console.log(displays());
